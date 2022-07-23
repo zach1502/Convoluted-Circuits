@@ -1,0 +1,11 @@
+{
+  "name": "convolutedbinary",
+  "version": "1.0.0",
+  "description": "Circuit stuff but with NaN and Infinity",
+  "main": "convoluted.js",
+  "scripts": {
+    "test": "node TestSuite.js"
+  },
+  "author": "Zachary C",
+  "license": "ISC"
+}
